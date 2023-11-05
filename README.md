@@ -10,4 +10,6 @@ Hi there👋, Welcome!
 <!---
 vitor-dornela/vitor-dornela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+Repositoório massa para pegar badges:
+https://github.com/alexandresanlim/Badges4-README.md-Profile 
 --->

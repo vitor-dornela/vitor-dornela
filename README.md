@@ -2,7 +2,7 @@
 ![Blue Simple LinkedIn Banner](https://github.com/vitor-dornela/vitor-dornela/assets/149430048/4695e439-7026-486b-b111-3cb39d5f7a54)
 
 ## 👋 Hi there, welcome!
-I am Vitor - a highly motivated and skilled individual with Brazilian and Italian citizenships. I am currently pursuing my Technologist in Systems Analysis & Development at the prestigious Faesa University Center, and have also studied electrical engineering at UFES. I reside in the beautiful city of Vitória in Espirito Santo, Brazil.
+I am Vitor - a highly motivated and skilled individual with Brazilian and Italian citizenship. I am currently pursuing my Technologist in Systems Analysis & Development at the prestigious Faesa University Center, and have also studied electrical engineering at UFES and TH Köln in Germany. I reside in the beautiful city of Vitória in Espirito Santo, Brazil.
 
 ## 🌱 Skill tree
 

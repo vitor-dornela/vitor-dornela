@@ -21,6 +21,8 @@ I’m an avid learner and fond of coding in Python and databases, especially for
 ## 👀 Interests
 Apart from programming and technology, I also like cycling, calisthenics, hiking, series, animes, languages (yoo-hoo German and Italian), Formula 1, football, games, books, and mangas. You name it.
 
+The next badges are clickable:
+
 [![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/vitorgunarea) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198034548900/)
 
 

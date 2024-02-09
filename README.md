@@ -28,7 +28,7 @@ Apart from programming and technology, I also like cycling, calisthenics, hiking
 ## 📫 Reach me here 
 💞️ I’m looking to collaborate on projects!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-dornela/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](witter.com/vitor_dornela_m)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-dornela/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vitor_dornela_m)
 
 <!---
 vitor-dornela/vitor-dornela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -23,7 +23,10 @@ Apart from programming and technology, I also like cycling, calisthenics, hiking
 
 The next badges are clickable:
 
-[![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/vitorgunarea) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198034548900/) [![IMDB](https://img.shields.io/badge/IMDB-blue?style=for-the-badge&logo=imdb&logoColor=black&color=yellow)](https://www.imdb.com/user/ur33311290)
+[![GoodReads](https://img.shields.io/badge/GoodReads-brown?style=for-the-badge&logo=goodreads&logoColor=brown&labelColor=beige&color=beige)](https://www.goodreads.com/vitor-dornela) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198034548900/) [![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/vitorgunarea)  [![IMDB](https://img.shields.io/badge/IMDB-blue?style=for-the-badge&logo=imdb&logoColor=black&color=yellow)](https://www.imdb.com/user/ur33311290) 
+
+
+
 
 
 

@@ -19,7 +19,7 @@ I’m an avid learner and fond of coding in Python and databases, especially for
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## 👀 Interests
-Apart from programming and technology, I also like series, animes, languages (yoo-hoo German and Italian), Formula 1, football, games, books, mangas. You name it.
+Apart from programming and technology, I also like cycling, calisthenics, hiking, series, animes, languages (yoo-hoo German and Italian), Formula 1, football, games, books, and mangas. You name it.
 
 [![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/vitorgunarea) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198034548900/)
 
